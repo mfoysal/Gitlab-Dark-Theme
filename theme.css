@@ -804,4 +804,46 @@ ul.notes>li .note-body .note-text h2 {
 	background-color: #295989;    
 }
 
+body::-webkit-scrollbar {
+    width: 1em;
+}
+ 
+body::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: darkgrey;
+  outline: 1px solid slategrey;
+}
+
+.nav-sidebar {
+    background-color: #004256;
+}
+
+.nav-sidebar li a {
+	color: #ddd;    
+}
+
+.nav-sidebar li a:hover {
+	color: red;    
+}
+
+body.ui_dark .nav-sidebar li.active>a {
+ 	color: #fff;   
+}
+
+.sidebar-top-level-items>li .badge {
+ 	background-color: #fff; 
+}
+
+body.ui_dark .nav-sidebar li.active svg {
+ 	color: #fff;   
+}
+
+.context-header a {
+ 	color: #fff;   
+}
+
+
 
