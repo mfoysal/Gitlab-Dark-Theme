@@ -789,7 +789,7 @@ ul.notes>li .note-body .note-text li {
 }
 
 .board-inner {
-    border: 1px solid #a5a5a5;   
+    border: 1px solid #595959;   
 }
 
 .filtered-search-box {
@@ -799,4 +799,9 @@ ul.notes>li .note-body .note-text li {
 ul.notes>li .note-body .note-text h2 {
     color: #fff;   
 }
+
+.card.is-active, .card.is-active .card-assignee:hover a {
+	background-color: #295989;    
+}
+
 
