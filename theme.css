@@ -157,7 +157,7 @@ header .header-content .title, header .header-content .title a {
     border-color: #F24F41;
 }
 .btn.btn-danger:hover, .project-home-panel .btn-danger.visibility-level-label:hover, .snippet-holder .file-actions .btn-danger.btn-clipboard:hover, .btn.btn-danger:focus, .project-home-panel .btn-danger.visibility-level-label:focus, .snippet-holder .file-actions .btn-danger.btn-clipboard:focus, .btn.btn-remove:hover, .project-home-panel .btn-remove.visibility-level-label:hover, .snippet-holder .file-actions .btn-remove.btn-clipboard:hover, .btn.btn-remove:focus, .project-home-panel .btn-remove.visibility-level-label:focus, .snippet-holder .file-actions .btn-remove.btn-clipboard:focus, .btn.btn-red:hover, .project-home-panel .btn-red.visibility-level-label:hover, .snippet-holder .file-actions .btn-red.btn-clipboard:hover, .btn.btn-red:focus, .project-home-panel .btn-red.visibility-level-label:focus, .snippet-holder .file-actions .btn-red.btn-clipboard:focus {
-	background-color: #B84D45;
+    background-color: #B84D45;
     border-color: #FB3929;
 }
 .input-group-btn .active {
@@ -643,126 +643,126 @@ textarea.js-gfm-input, form.new_variable #variable_key, form.new_variable #varia
 
 /* Custom Settings */
 .board-inner {
- 	background-color: #212121;   
+    background-color: #212121;   
 }
 
 .breadcrumbs-sub-title a {
-	color: #fff;    
+    color: #fff;    
 }
 
 .breadcrumbs-links {
- 	color: #fff;   
+    color: #fff;   
 }
 
 .harvest-timer .btn .btn-grouped .btn-edit {
- 	background-color: #fff;
+    background-color: #fff;
     color: #000;
 }
 
 .timeline-entry {
- 	color: #fff;   
+    color: #fff;   
 }
 
 .detail-page-header {
- 	color: #fff;   
+    color: #fff;   
 }
 
 .detail-page-header a {
- 	color: #fff;   
+    color: #fff;   
 }
 
 .project-stats .nav>li>a, .btn, .project-home-panel .visibility-level-label, .snippet-holder .file-actions .btn-clipboard, .commit button {
- 	color: #fff;  
+    color: #fff;  
 }
 
 .note-headline-light {
- 	color: #fff;   
+    color: #fff;   
 }
 
 .note-text md {
- 	color: #fff;   
+    color: #fff;   
 }
 
 ul.notes>li .note-body .note-text {
- 	color: #fff;   
+    color: #fff;   
 }
 
 .wiki, .wiki p {
- 	color: #fff;   
+    color: #fff;   
 }
 
 .issuable-sidebar .project-stats .nav>li>a, .btn, .project-home-panel .visibility-level-label, .snippet-holder .file-actions .btn-clipboard, .commit button {
- 	background-color: #89b8ff;
+    background-color: #89b8ff;
     color: #fff;
 }
 
 ul.notes>li .note-body .note-text p {
- 	color: #fff;   
+    color: #fff;   
 }
 
 .user-access-role {
- 	color: #ffc666;
+    color: #ffc666;
 }
 
 ul.notes .system-note .system-note-message a {
-	color: #a0d7ff;
+    color: #a0d7ff;
 }
 
 .nav-links li a {
- 	color: #ededed;   
+    color: #ededed;   
 }
 
 .badge {
- 	color: #fff;   
+    color: #fff;   
 }
 
 .issuable-list li .issuable-milestone, .issuable-list li .issuable-info, .issuable-list li .task-status, .issuable-list li .issuable-updated-at {
- 	color: #fff;   
+    color: #fff;   
 }
 
 .issuable-list li .issuable-milestone a, .issuable-list li .issuable-info a, .issuable-list li .task-status a, .issuable-list li .issuable-updated-at a {
- 	color: #fff;   
+    color: #fff;   
 }
 
 .mr-state-widget .ci-widget {
- 	color: #fff;   
+    color: #fff;   
 }
 
 .mr-state-widget {
- 	color: #fff;   
+    color: #fff;   
 }
 
 .mr-source-target {
- 	background-color: #38393A;   
+    background-color: #38393A;   
 }
 
 .mr-state-widget .label-branch {
- 	color: #fff;   
+    color: #fff;   
 }
 
 .merge-request-tabs-holder {
- 	background-color: #38393A;
+    background-color: #38393A;
 }
 
 .limit-container-width .merge-request-tabs-container .inner-page-scroll-tabs {
- 	background-color: transparent;
+    background-color: transparent;
     color: #fff;
 }
 
 .nav-links li.active a .badge {
- 	color: #fff;   
+    color: #fff;   
 }
 
 ul.notes>li .note-body .note-text li {
- 	color: #fff;   
+    color: #fff;   
 }
 
 .note-headline-light, .discussion-headline-light {
- 	color: #fff;   
+    color: #fff;   
 }
 
 .discussion-header .author_link, .note-header-info .author_link {
- 	color: #fff;   
+    color: #fff;   
 }
 
 .wiki a {
@@ -770,28 +770,33 @@ ul.notes>li .note-body .note-text li {
 }
 
 .info-well {
- 	background: #222;
+    background: #222;
     color: #fff;
     border: none;
 }
 
 .card {
- 	background-color: #3a3a3a;  
+    background-color: #3a3a3a;  
     color: #fff;
 }
 
 .card-title a {
-	color: #fff;    
+    color: #fff;    
 }
 
 .card-number {
- 	color: #efefef;   
+    color: #efefef;   
 }
 
 .board-inner {
- 	border: 1px solid #a5a5a5;   
+    border: 1px solid #a5a5a5;   
 }
 
 .filtered-search-box {
     border-color: #a5a5a5;
 }
+
+ul.notes>li .note-body .note-text h2 {
+    color: #fff;   
+}
+
