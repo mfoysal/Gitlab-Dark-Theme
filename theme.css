@@ -845,5 +845,32 @@ body.ui_dark .nav-sidebar li.active svg {
  	color: #fff;   
 }
 
+.nav-sidebar {
+    box-shadow: none;   
+}
+
+.navbar-gitlab.navbar-gitlab {
+    border: none;   
+}
+
+.right-sidebar .title .edit-link {
+    color: #fff;   
+}
+
+.search.search-active form .search-input {
+    color: #fff;
+}
+
+.todo-item .todo-body .todo-note .md p {
+    color: #fff;   
+}
+
+.title-item .action-name {
+    color: #fff;
+}
+
+ul.content-list li {
+    color: #fff;   
+}
 
 
