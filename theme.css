@@ -878,3 +878,23 @@ ul.content-list li {
     background-color: #484848;   
 }
 
+.select2-container .select2-choice .select2-chosen, .select2-container.select2-drop-above .select2-choice .select2-chosen {
+    color: #000;   
+}
+
+.slead {
+    color: #fff;   
+}
+
+.file-title-flex-parent a {
+    color: #fff;    
+}
+
+.md a {
+    color: #a0d7ff;   
+}
+
+ul.notes>li .note-body .note-text a {
+    color: #a0d7ff;   
+}
+
