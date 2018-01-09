@@ -898,3 +898,15 @@ ul.notes>li .note-body .note-text a {
     color: #a0d7ff;   
 }
 
+.event-item .event-title {
+    color: #fff;   
+}
+
+.event-item {
+    color: #fff;   
+}
+
+.merge-request.today, .issue.today {
+    background: #2b4e28;   
+}
+
