@@ -910,3 +910,12 @@ ul.notes>li .note-body .note-text a {
     background: #2b4e28;   
 }
 
+.todos-list>.todo:hover {
+    background-color: #4f5963;
+    border-color: #6b6b6b;
+}
+
+.todos-list>.todo.todo-pending.done-reversible {
+    background-color: #02985b;
+    color: #fff;
+}
