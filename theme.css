@@ -928,3 +928,8 @@ ul.notes>li .note-body .note-text h1 {
     color: #000;   
 }
 
+.manage-labels-list>li:not(.empty-message):not(.is-not-draggable) {
+    background-color: #333;   
+}
+
+
